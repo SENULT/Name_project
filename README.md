@@ -1,1 +1,1 @@
-# Name_project
+# Image preprocessing
